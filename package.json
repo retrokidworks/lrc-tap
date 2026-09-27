@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": false,
   "license": "MIT",
-  "author": "heyask",
+  "author": "retrokidworks",
   "type": "module",
   "description": "Browser-only LRC lyrics sync editor. Tap, tweak, export.",
   "scripts": {
